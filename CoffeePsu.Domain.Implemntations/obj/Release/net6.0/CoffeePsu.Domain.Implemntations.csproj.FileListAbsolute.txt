@@ -1,0 +1,15 @@
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\bin\Release\net6.0\CoffeePsu.Domain.Implemntations.deps.json
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\bin\Release\net6.0\CoffeePsu.Domain.Implemntations.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\bin\Release\net6.0\CoffeePsu.Domain.Implemntations.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\bin\Release\net6.0\CoffeePsu.Domain.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\bin\Release\net6.0\CoffeePsu.Domain.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.csproj.AssemblyReference.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.AssemblyInfoInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.AssemblyInfo.cs
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.csproj.CoreCompileInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.csproj.CopyComplete
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\refint\CoffeePsu.Domain.Implemntations.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\CoffeePsu.Domain.Implemntations.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.Domain.Implemntations\obj\Release\net6.0\ref\CoffeePsu.Domain.Implemntations.dll

@@ -1,0 +1,12 @@
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\bin\Debug\net6.0\CoffeePsu.Domain.Contracts.deps.json
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\bin\Debug\net6.0\CoffeePsu.Domain.Contracts.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\bin\Debug\net6.0\CoffeePsu.Domain.Contracts.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.csproj.AssemblyReference.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.AssemblyInfo.cs
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\refint\CoffeePsu.Domain.Contracts.dll
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\CoffeePsu.Domain.Contracts.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.Domain\obj\Debug\net6.0\ref\CoffeePsu.Domain.Contracts.dll

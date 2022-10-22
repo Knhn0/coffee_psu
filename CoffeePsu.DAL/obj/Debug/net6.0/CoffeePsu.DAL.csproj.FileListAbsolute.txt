@@ -1,0 +1,14 @@
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.csproj.AssemblyReference.cache
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.AssemblyInfoInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.AssemblyInfo.cs
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.csproj.CoreCompileInputs.cache
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.deps.json
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.runtimeconfig.json
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.dll
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.dll
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\refint\CoffeePsu.DAL.dll
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.pdb
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.genruntimeconfig.cache
+C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\ref\CoffeePsu.DAL.dll

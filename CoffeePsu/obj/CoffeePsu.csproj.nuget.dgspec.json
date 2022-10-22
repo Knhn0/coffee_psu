@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {}
+  },
+  "projects": {
+    "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+        "projectName": "CoffeePsu.DAL",
+        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+        "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
+        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
+        "projectName": "CoffeePsu.Domain.Implemntations",
+        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
+        "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
+        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
+        "projectName": "CoffeePsu.Domain",
+        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
+        "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
+        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
+        "projectName": "CoffeePsu",
+        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
+        "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
+        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
+                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj"
+              },
+              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
+                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj"
+              },
+              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

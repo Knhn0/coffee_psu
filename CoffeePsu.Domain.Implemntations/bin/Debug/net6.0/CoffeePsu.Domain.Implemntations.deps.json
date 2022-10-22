@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoffeePsu.Domain.Implemntations/1.0.0": {
+        "dependencies": {
+          "CoffeePsu.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoffeePsu.Domain.Implemntations.dll": {}
+        }
+      },
+      "CoffeePsu.Domain/1.0.0": {
+        "runtime": {
+          "CoffeePsu.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeePsu.Domain.Implemntations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoffeePsu.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
