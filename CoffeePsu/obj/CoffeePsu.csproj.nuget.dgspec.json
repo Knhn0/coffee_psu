@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {}
+    "C:\\web\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {}
   },
   "projects": {
-    "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
+    "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+        "projectUniqueName": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
         "projectName": "CoffeePsu.DAL",
-        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+        "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
         "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\obj\\",
+        "outputPath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
+    "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
+        "projectUniqueName": "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
         "projectName": "CoffeePsu.Domain.Implemntations",
-        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
+        "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj",
         "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\obj\\",
+        "outputPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
-                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
+              "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+                "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+    "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
+        "projectUniqueName": "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
         "projectName": "CoffeePsu.Domain",
-        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
+        "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj",
         "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\obj\\",
+        "outputPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,14 +203,14 @@
         }
       }
     },
-    "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {
+    "C:\\web\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
+        "projectUniqueName": "C:\\web\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
         "projectName": "CoffeePsu",
-        "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
+        "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu\\CoffeePsu.csproj",
         "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu\\obj\\",
+        "outputPath": "C:\\web\\CoffeePsu\\CoffeePsu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,14 +227,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
-                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj"
+              "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj": {
+                "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj"
               },
-              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
-                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj"
+              "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj": {
+                "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain.Implemntations\\CoffeePsu.Domain.Implemntations.csproj"
               },
-              "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
-                "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
+              "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj": {
+                "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.Domain\\CoffeePsu.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "baMptPN66oNF8lgkQLIWV/hdDnLOmLjHYsfTvSev7VdYkBDMS9Q/HEjhCjjexl/ZODtCmhWCj8KNzrKnl8qiRg==",
+  "dgSpecHash": "ffyKwfGjyDkcdp0hlkxwDsxjD2Ow0P/bJSwX5gsGhvlbHJUqoCyBukE7m1Lcmp9KoNcas9UcaqvuRmPU3hMu6Q==",
   "success": true,
-  "projectFilePath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+  "projectFilePath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
