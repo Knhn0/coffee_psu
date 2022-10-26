@@ -12,3 +12,17 @@ C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\refint\CoffeePsu.DAL.dll
 C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.pdb
 C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.genruntimeconfig.cache
 C:\Sharp\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\ref\CoffeePsu.DAL.dll
+C:\web\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.deps.json
+C:\web\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.runtimeconfig.json
+C:\web\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.dll
+C:\web\CoffeePsu\CoffeePsu.DAL\bin\Debug\net6.0\CoffeePsu.DAL.pdb
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.csproj.AssemblyReference.cache
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.AssemblyInfoInputs.cache
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.AssemblyInfo.cs
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.csproj.CoreCompileInputs.cache
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.dll
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\refint\CoffeePsu.DAL.dll
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.pdb
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\CoffeePsu.DAL.genruntimeconfig.cache
+C:\web\CoffeePsu\CoffeePsu.DAL\obj\Debug\net6.0\ref\CoffeePsu.DAL.dll

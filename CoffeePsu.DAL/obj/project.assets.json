@@ -2532,11 +2532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+      "projectUniqueName": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
       "projectName": "CoffeePsu.DAL",
-      "projectPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
+      "projectPath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\CoffeePsu.DAL.csproj",
       "packagesPath": "C:\\Users\\Shnaider Kirill\\.nuget\\packages\\",
-      "outputPath": "C:\\Sharp\\CoffeePsu\\CoffeePsu.DAL\\obj\\",
+      "outputPath": "C:\\web\\CoffeePsu\\CoffeePsu.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shnaider Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
